@@ -1,0 +1,4 @@
+*.swp
+*.tar.gz
+Data-Dump-JavaScript*
+/.build
